@@ -54,11 +54,7 @@ The figure below shows training/validation accuracy and loss:
 - Model limited to 6 emotion classes and English only.
 - No deployment layer yet (e.g., API, web interface).
 
----
 
-## 💡 Suggested Project Name
-
-**FineTune-KerasLLM: Emotion Classification with Hugging Face & ALBERT**
 
 ---
 
